@@ -15,9 +15,7 @@
   <main>
     <section>
         <h2> Sobre mim</h2>
-        <p>Com sólida capacidade comunicativa,
-destaca-se pela clareza e objetividade na
-expressão de ideias.
+        <p>Discente vinculado à Escola Técnica Estadual Porto Digital, onde desenvolve sua formação técnica com ênfase nos domínios da ciência e da tecnologia da informação, articulando teoria, prática e inovação. Detém certificação em Lógica de Programação, ofertada pelo Instituto Federal do Rio Grande do Sul (IFRS), com aprofundamento nos fundamentos da lógica computacional e na estruturação algorítmica de soluções digitais. Perfaz do curso de Desenvolvimento Full Stack, promovido pela Cesar School, no qual consolidou habilidades técnicas em programação Front-end e Back-end, abrangendo desde a construção de interfaces responsivas até a modelagem de estruturas de dados e serviços de aplicação. Ademais, concluiu com êxito o curso de Comunicação Simples e Oratória, ministrado pela Escola Nacional de Administração Pública (ENAP), que lhe proporcionou subsídios teórico-práticos para o aprimoramento da expressão oral, da persuasão discursiva e da comunicação eficiente em ambientes institucionais e profissionais.
         </p>
 
     </section>
@@ -25,11 +23,13 @@ expressão de ideias.
     <section>
         <h2>Habilidades</h2>
         <ul>
-            <li>Conhecimento introdutório em HTML</li>
+            <li>Proatividade</li>
             <li>Noções básicas em teoria das cores</li>
             <li>Produção de trabalho escolar</li>
             <li>Organização de estudos e trabalhos</li>
             <li>Capacidade de trabalhar em grupo</li>
+            <li>Oratória</li>
+            <li>Foco em resultados</li>
         </ul>
     </section>
 
@@ -40,7 +40,7 @@ expressão de ideias.
             <div class="projeto">Projeto 1</div>
             <a href="https://www.canva.com/design/DAHEOqKxOJM/um9IwU5amJDiAYs9DNYhzw/view?utm_content=DAHEOqKxOJM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h12f2d83362&authuser=2" target="_blank"></a>
             <div class="projeto">Projeto 2</div>
-          </div>
+            <div class="https://canva.link/no5evcb1dwomckt" div>
     </section>
 
    
@@ -57,7 +57,7 @@ expressão de ideias.
     <button id="modo">Modo Escuro</button>
 
     <footer>
-        <p>© 2026 Marianna Zacarias</p>
+        <p>© 2026 Israel Domingos</p>
     </footer>
   </main>
 
