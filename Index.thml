@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Meu Portifólio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>Israel Domingos da Silva Filho</h1>
+    <p>Estudante da Escola Técnica Estadual Porto Digital</p>
+  </header>
+
+  <main>
+    <section>
+        <h2> Sobre mim</h2>
+        <p>Com sólida capacidade comunicativa,
+destaca-se pela clareza e objetividade na
+expressão de ideias.
+        </p>
+
+    </section>
+   
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Conhecimento introdutório em HTML</li>
+            <li>Noções básicas em teoria das cores</li>
+            <li>Produção de trabalho escolar</li>
+            <li>Organização de estudos e trabalhos</li>
+            <li>Capacidade de trabalhar em grupo</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projetos</h2>
+          <div class="projetos">
+            <a href="c:\Users\zacar\Downloads\Atividade 4 - Input&Output.pdf" target="_blank"></a>
+            <div class="projeto">Projeto 1</div>
+            <a href="https://www.canva.com/design/DAHEOqKxOJM/um9IwU5amJDiAYs9DNYhzw/view?utm_content=DAHEOqKxOJM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h12f2d83362&authuser=2" target="_blank"></a>
+            <div class="projeto">Projeto 2</div>
+          </div>
+    </section>
+
+   
+    <section>
+        <h2>Contato</h2>
+       
+    <form>
+      <form id="formContato">
+        <input type="text" id="nome" placeholder="Seu nome">
+        <input type="text" id="email" placeholder="Seu Email">
+        <textarea id="mensagem" placeholder="mensagem"></textarea>
+        <button type="submit">Enviar</button>
+    </form>
+    <button id="modo">Modo Escuro</button>
+
+    <footer>
+        <p>© 2026 Marianna Zacarias</p>
+    </footer>
+  </main>
+
+    <nav>
+       <a href="#sobre">Sobre</a>
+       <a href="#projetos">Projetos</a>
+    </nav>
+
+    <section id="sobre">...</section>
+    <section id="projetos">...</section>
+    <script src="script.js"></script>
+
+</body>
+</html>
